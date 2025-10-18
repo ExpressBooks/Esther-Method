@@ -133,7 +133,7 @@ const ProductSection = () => {
           {/* Bonus 1 */}
           <div className="bg-accent/10 border border-accent p-6 sm:p-8 rounded-lg mt-10 space-y-6">
             <div className="flex items-center justify-center gap-2">
-              <h3 className="text-2xl font-bold text-black">BONIFICACIÓN EXCLUSIVA</h3>
+              <h3 className="text-2xl font-bold text-black">EXCLUSIVE BONUS</h3>
             </div>
 
             <div className="max-w-xl mx-auto">
@@ -150,7 +150,7 @@ const ProductSection = () => {
             </p>
 
             <div className="bg-card border border-border p-4 rounded-lg text-left space-y-3">
-              <h4 className="text-lg font-bold text-card-foreground">Lo que encontrarás en esta guía:</h4>
+              <h4 className="text-lg font-bold text-card-foreground">What you will find in this guide:</h4>
               <ul className="space-y-2">
                 {bonusItems1.map((item, idx) => (
                   <li key={idx} className="flex items-start">
