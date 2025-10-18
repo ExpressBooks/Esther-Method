@@ -6,31 +6,31 @@ const FinalCTASection = () => {
       <div className="container mx-auto max-w-4xl text-center text-yellow-900 space-y-6 sm:space-y-8">
 
         <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold">
-          Estás a un paso de <span className="text-yellow-700">desbloquear tu voz</span>
+          You're one step away from <span className="text-yellow-700">unlocking your voice</span>
         </h2>
 
         <p className="text-base sm:text-lg lg:text-xl max-w-2xl mx-auto text-yellow-800 leading-relaxed">
-          Hoy puedes acceder al <strong>Método Esther</strong> con todos los bonos exclusivos
-          y comenzar tu transformación ministerial <strong>de inmediato</strong>.
+          Today you can access the <strong>Esther Method</strong> with all the exclusive bonuses
+          and begin your ministerial transformation <strong>immediately</strong>.
         </p>
 
         {/* Lista de beneficios rápidos */}
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4 max-w-md mx-auto text-left text-yellow-800">
           <div className="flex items-center gap-2">
             <CheckCircle className="w-5 h-5 text-green-600" />
-            <span className="text-sm sm:text-base">Acceso inmediato en todos tus dispositivos</span>
+            <span className="text-sm sm:text-base">Instant access on all your devices</span>
           </div>
           <div className="flex items-center gap-2">
             <CheckCircle className="w-5 h-5 text-green-600" />
-            <span className="text-sm sm:text-base">Garantía incondicional de 7 días</span>
+            <span className="text-sm sm:text-base">7-day unconditional guarantee</span>
           </div>
           <div className="flex items-center gap-2">
             <CheckCircle className="w-5 h-5 text-green-600" />
-            <span className="text-sm sm:text-base">Más de 2.000 mujeres ya transformadas</span>
+            <span className="text-sm sm:text-base">More than 2,000 women already transformed</span>
           </div>
           <div className="flex items-center gap-2">
             <CheckCircle className="w-5 h-5 text-green-600" />
-            <span className="text-sm sm:text-base">Bonos exclusivos incluidos GRATIS</span>
+            <span className="text-sm sm:text-base">Exclusive bonuses included FREE</span>
           </div>
         </div>
 
@@ -41,17 +41,17 @@ const FinalCTASection = () => {
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center w-full sm:w-auto text-lg font-bold py-4 px-8 border-2 border-yellow-600 bg-yellow-500 text-black rounded-lg shadow-md hover:bg-yellow-600 hover:text-white transition duration-300 ease-in-out transform hover:scale-105 mt-4"
         >
-          ¡SÍ, QUIERO ACCEDER AHORA!
+          YES, I WANT TO ACCESS NOW!
         </a>
 
         {/* Mensagem de urgência */}
         <p className="text-sm text-yellow-700 font-medium">
-          ⚠️ Precio promocional disponible por tiempo limitado.
+          ⚠️ Special offer available for a limited time only.
         </p>
 
         {/* Direitos reservados */}
         <p className="text-xs sm:text-sm text-muted-foreground mt-4">
-          © 2025 Método Esther. Todos los derechos reservados.
+          © 2025 Esther Method. All rights reserved.
         </p>
       </div>
     </section>
