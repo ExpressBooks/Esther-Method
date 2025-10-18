@@ -21,17 +21,17 @@ const EmpathySection = () => {
             </p>
             
             <p>
-              Quiero que sepas algo: <strong>No estás sola.</strong>
+              I want you to know something: <strong>You are not alone.</strong>
             </p>
           </div>
 
           <div className="bg-accent border border-accent-foreground/20 p-4 sm:p-6 lg:p-8 rounded-lg">
             <p className="text-xl sm:text-base lg:text-lg font-bold text-accent-foreground mb-3 sm:mb-4">
-              En los últimos 10 años, ayudé a más de 2.000 mujeres a descubrir su llamado, 
-              a vencer el miedo y a predicar con autoridad.
+              Over the past 10 years, I have helped more than 2,000 women discover their calling, 
+              overcome fear, and preach with authority.
             </p>
             <p className="text-base sm:text-lg lg:text-xl font-bold text-primary">
-              Hoy, tú puedes ser la próxima.
+              Today, you could be next.
             </p>
           </div>
         </div>
