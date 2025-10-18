@@ -14,7 +14,7 @@ const SolutionSection = () => {
 
           {/* Título principal */}
           <h2 className="text-3xl md:text-4xl font-bold text-foreground">
-            El Secreto Está en la Biblia
+            The Secret Is in the Bible
           </h2>
 
           {/* Estratégia da Rainha Ester */}
@@ -22,28 +22,28 @@ const SolutionSection = () => {
             <div className="flex items-center justify-center mb-4">
               <Crown className="w-8 h-8 text-primary mr-2" />
               <h3 className="text-2xl font-bold text-primary">
-                La Estrategia de la Reina Ester
+                Queen Esther's Strategy
               </h3>
             </div>
 
             <p className="text-lg text-foreground mb-6 leading-relaxed">
-              Cuando Ester fue llamada para salvar a su pueblo, no se lanzó sin preparación.
-              Siguió un proceso divino de 4 etapas que la transformó de una joven común
-              en una mujer de autoridad que cambió la historia.
+              When Esther was called to save her people, she did not rush into it unprepared.
+              She followed a divine four-step process that transformed her from an ordinary young woman
+              into a woman of authority who changed history.
             </p>
 
             <div className="grid grid-cols-1 gap-6">
   <div className="flex items-center justify-center">
-    <span className="font-bold text-xl text-purple-700 uppercase">Selección</span>
+    <span className="font-bold text-xl text-purple-700 uppercase">Selection</span>
   </div>
   <div className="flex items-center justify-center">
-    <span className="font-bold text-xl text-purple-700 uppercase">Purificación</span>
+    <span className="font-bold text-xl text-purple-700 uppercase">Purification</span>
   </div>
   <div className="flex items-center justify-center">
-    <span className="font-bold text-xl text-purple-700 uppercase">Unción</span>
+    <span className="font-bold text-xl text-purple-700 uppercase">Unction</span>
   </div>
   <div className="flex items-center justify-center">
-    <span className="font-bold text-xl text-purple-700 uppercase">Entrega</span>
+    <span className="font-bold text-xl text-purple-700 uppercase">Surrender</span>
   </div>
 </div>
 
@@ -53,17 +53,17 @@ const SolutionSection = () => {
                 
               </div>
               <p className="text-lg font-semibold text-highlight-foreground">
-                Inspirada por esta estrategia divina, adapté cada etapa para mujeres como tú
-                y creé el <strong>MÉTODO ESTHER</strong>.
+                Inspired by this divine strategy, I adapted each step for women like you
+                and created the <strong>ESTHER METHOD</strong>.
               </p>
             </div>
 
             {/* Texto final */}
             <div className="text-lg text-muted-foreground mt-6">
               <p>
-                No es casualidad que este método lleve el nombre de Ester.
-                Ella nos mostró que cualquier mujer, sin importar su origen,
-                puede ser transformada en una voz de autoridad cuando sigue el proceso correcto.
+                It is no coincidence that this method bears Ester's name.
+                She showed us that any woman, regardless of her background,
+                can be transformed into a voice of authority when she follows the right process.
               </p>
             </div>
           </div>
