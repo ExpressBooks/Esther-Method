@@ -3,27 +3,27 @@ import { Star, Quote } from "lucide-react";
 const TestimonialsSection = () => {
   const testimonials = [
     {
-      name: "Mariana López",
-      location: "México",
-      text: "Llevaba 3 años sintiéndome llamada pero paralizada por el miedo. Con el Método Esther, en 2 semanas ya estaba predicando con confianza. ¡Mi pastor no podía creerlo!",
+      name: "Lauren Carter",
+      location: "California, USA",
+      text: "For years I prayed for boldness but didn’t know where to start. The Esther Method helped me organize my messages and speak with clarity. Now I lead the women’s Bible study every week!",
       rating: 5
     },
     {
-      name: "Rosa María Gutiérrez",
-      location: "Colombia",
-      text: "Pensé que necesitaba estudiar teología para predicar. Este método me mostró que ya tenía todo lo necesario dentro de mí. Ahora predico todos los domingos.",
+      name: "Natalie Brown",
+      location: "Vancouver, Canada",
+      text: "Before this training, I was terrified to share anything in public. Now I feel the Holy Spirit guiding every word I speak. My husband says he’s never seen me so confident!",
       rating: 5
     },
     {
-      name: "Carmen Rodríguez",
-      location: "España",
-      text: "Mi primera predicación después del curso fue tan poderosa que varias personas se acercaron para entregarle su vida a Cristo. ¡Gloria a Dios!",
+      name: "Hannah Walker",
+      location: "London, England",
+      text: "I used to hide behind others in ministry, afraid of making mistakes. The Esther Method taught me to trust God’s calling. Today, I preach with conviction and peace.",
       rating: 5
     },
     {
-      name: "Ana Patricia Silva",
-      location: "Argentina",
-      text: "El módulo sobre cómo manejar los nervios me cambió la vida. Antes temblaba al hablar, ahora predico con autoridad y unción.",
+      name: "Megan Davis",
+      location: "Nashville, USA",
+      text: "The teachings on structure and spiritual preparation were life-changing. I went from trembling before people to speaking with divine authority. All glory to God!",
       rating: 5
     }
   ];
@@ -39,7 +39,7 @@ const TestimonialsSection = () => {
       <div className="container mx-auto max-w-6xl">
         <div className="text-center space-y-8 sm:space-y-12">
           <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-foreground px-2">
-            Testimonios de Mujeres que Ya Vivieron la Transformación
+            Testimonials from Women Who Have Already Experienced the Transformation
           </h2>
 
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6 lg:gap-8">
@@ -73,7 +73,7 @@ const TestimonialsSection = () => {
 
           <div className="bg-success-light border border-success/20 p-4 sm:p-6 rounded-lg max-w-2xl mx-auto">
             <p className="text-sm sm:text-base lg:text-lg font-semibold text-success-foreground px-2">
-              ¡Únete a más de 2,000 mujeres que ya están predicando con autoridad!
+              Join over 2,000 women who are already preaching with authority!
             </p>
           </div>
         </div>
