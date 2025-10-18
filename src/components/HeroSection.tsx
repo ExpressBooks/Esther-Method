@@ -17,16 +17,16 @@ const HeroSection = () => {
 
         {/* Main Headline */}
         <h1 className="text-2xl sm:text-2xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-foreground mb-4 sm:mb-6 leading-tight px-2">
-          Descubre el{" "}
-          <span className="text-primary">Método Secreto</span>{" "}
-          que Transformó Mujeres Comunes en{" "}
-          <span className="text-primary">Predicadoras de Autoridad</span>
+          Discover the{" "}
+          <span className="text-primary">Secret Method</span>{" "}
+          that Transformed Ordinary Women into{" "}
+          <span className="text-primary">Preachers of Authority</span>
         </h1>
 
        {/* Subheadline Highlight Box */}
 <div className="bg-highlight p-4 sm:p-6 rounded-r-lg mb-6 sm:mb-8 max-w-2xl mx-auto">
   <p className="text-2xl sm:text-lg md:text-xl font-semibold text-highlight-foreground">
-    ¿Sientes que Dios te llamó, pero no sabes por dónde empezar?
+    Do you feel that God has called you, but you don't know where to start?
   </p>
 </div>
         
