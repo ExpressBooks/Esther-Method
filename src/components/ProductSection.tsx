@@ -231,7 +231,7 @@ const ProductSection = () => {
             </div>
 
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-              Imagine that, in addition to the <strongEsther Method,</strong>, you have a plan designed specifically to help you 
+              Imagine that, in addition to the <strong>Esther Method</strong>, you have a plan designed specifically to help you you 
               grow as a leader in ministry, strengthen your gifts, and wisely guide other women in their calling.
             </p>
 
