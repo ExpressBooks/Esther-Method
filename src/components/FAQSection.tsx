@@ -2,44 +2,44 @@ import { useState } from "react";
 
 const faqs = [
   {
-    question: "¿Esto es solo un e-book?",
+    question: "Is this just an e-book?",
     answer:
-      "No, en absoluto. El Método Esther no es un PDF que descargas y olvidas. Es un área exclusiva para miembros con nombre de usuario y contraseña personal, donde tendrás acceso a todo el contenido.",
+      "No, not at all. The Esther Method is not a PDF that you download and forget about. It is an exclusive members-only area with a personal username and password, where you will have access to all the content",
   },
   {
-    question: "¿Cómo accedo al contenido después de la compra?",
+    question: "How do I access the content after purchase?",
     answer:
-      "Es muy sencillo: 1) Una vez que compres en Hotmart, serás dirigida automáticamente a una página de bienvenida. 2) Allí verás un botón de registro para crear tu cuenta en la plataforma. 3) Con tu correo y contraseña, tendrás acceso inmediato al Método Esther. 4) ¡En minutos ya podrás comenzar tu proceso de transformación!",
+      "It's very simple: 1) Once you make your purchase on Hotmart, you will be automatically directed to a welcome page. 2) There you will see a registration button to create your account on the platform. 3) With your email and password, you will have immediate access to the Esther Method. 4) In minutes, you can begin your transformation process!",
   },
   {
-    question: "¿Necesito estudiar teología o tener experiencia previa?",
+    question: "Do I need to study theology or have previous experience?",
     answer:
-      "¡No! El Método Esther fue diseñado para mujeres comunes que sienten el llamado de Dios, aunque nunca hayan predicado. Todo está explicado paso a paso, sin tecnicismos complicados ni años de teoría.",
+      "No! The Esther Method was designed for ordinary women who feel God's calling, even if they have never preached before. Everything is explained step by step, without complicated technicalities or years of theory.",
   },
   {
-    question: "¿Y si no soy buena para hablar en público?",
+    question: "What if I'm not good at public speaking?",
     answer:
-      "Justamente para eso es el Método Esther. Te damos estrategias anti-pánico y técnicas prácticas para que subas al púlpito con seguridad y sin miedo.",
+      "That's exactly what the Esther Method is for. We give you anti-panic strategies and practical techniques so you can step up to the pulpit with confidence and without fear.",
   },
   {
-    question: "¿Cuánto tiempo me tomará ver resultados?",
+    question: "How long will it take to see results?",
     answer:
-      "Depende de tu compromiso, pero la mayoría de nuestras alumnas sienten un cambio real en su confianza en menos de 7 días. Muchas predican su primer sermón en tan solo 2 semanas.",
+      "It depends on your commitment, but most of our students feel a real change in their confidence in less than 7 days. Many preach their first sermon in just 2 weeks.",
   },
   {
-    question: "¿Y si no me funciona?",
+    question: "What if it doesn't work for me?",
     answer:
-      "No corres ningún riesgo. Tienes 7 días de garantía incondicional. Si no ves avances en tu seguridad y preparación para predicar, simplemente pides tu reembolso y recuperas tu dinero al 100%.",
+      "There is no risk involved. You have a 7-day unconditional guarantee. If you do not see progress in your confidence and preparation for preaching, simply request a refund and receive a full refund.",
   },
   {
-    question: "¿Puedo acceder desde mi celular?",
+    question: "Can I access it from my cell phone?",
     answer:
-      "Sí, claro. La plataforma está optimizada para que accedas desde tu computadora, tablet o celular, cuando y donde quieras.",
+      "Yes, of course. The platform is optimized so you can access it from your computer, tablet, or cell phone, whenever and wherever you want.",
   },
   {
-    question: "¿Por qué cuesta solo $9?",
+    question: "Why does it cost only $9?",
     answer:
-      "Porque nuestra misión es alcanzar a la mayor cantidad de mujeres posibles. Queremos que nada te detenga, ni siquiera el precio. El valor que recibes aquí es equivalente a mentorías de cientos de dólares, pero hoy tienes acceso completo por menos de lo que cuesta una comida rápida.",
+      "Because our mission is to reach as many women as possible. We don't want anything to hold you back, not even the price. The value you receive here is equivalent to hundreds of dollars worth of mentoring, but today you have full access for less than the cost of a fast food meal.",
   },
 ];
 
@@ -69,7 +69,7 @@ const FAQSection = () => {
     <section className="py-16 bg-white text-gray-800">
       <div className="max-w-4xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-center mb-10">
-          Preguntas Frecuentes
+          Frequently Asked Questions
         </h2>
         <div className="space-y-4">
           {faqs.map((faq, index) => (
