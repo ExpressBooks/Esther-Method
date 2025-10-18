@@ -4,20 +4,20 @@ const EmpathySection = () => {
       <div className="container mx-auto max-w-3xl">
         <div className="text-center space-y-4 sm:space-y-6">
           <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-foreground">
-            Hola, mujer de Dios.
+            Hello, woman of God.
           </h2>
           
           <div className="text-xl sm:text-base lg:text-lg text-muted-foreground leading-relaxed space-y-3 sm:space-y-4 px-2">
             <p>
-              Sé exactamente lo que sientes cuando piensas en subir al púlpito. 
-              Esa mezcla de emoción y terror que te paraliza. Sabes que Dios te ha llamado, 
-              pero cada vez que imaginas a todas esas personas mirándote, 
-              tu corazón se acelera y tu mente se queda en blanco.
+              I know exactly how you feel when you think about stepping up to the pulpit. 
+              That mixture of excitement and terror that paralyzes you. You know God has called you, 
+              but every time you imagine all those people looking at you, 
+              your heart races and your mind goes blank.
             </p>
             
             <p>
-              Te quedas despierta por las noches preguntándote: 
-              <em>"¿Y si no soy lo suficientemente buena? ¿Y si me equivoco? ¿Y si no tengo la unción necesaria?"</em>
+              You lie awake at night wondering: 
+              <em>"What if I'm not good enough? What if I make a mistake? What if I don't have the necessary anointing?"</em>
             </p>
             
             <p>
