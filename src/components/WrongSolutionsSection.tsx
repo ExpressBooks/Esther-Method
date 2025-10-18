@@ -2,10 +2,10 @@ import { X } from "lucide-react";
 
 const WrongSolutionsSection = () => {
   const wrongSolutions = [
-    { title: 'Haz un curso de oratoria', reason: 'Técnica vacía sin poder espiritual' },
-    { title: 'Estudia teología por 5 años', reason: 'Demasiado tarde, demasiada teoría' },
-    { title: 'Busca mensajes en internet', reason: 'Palabras sin alma' },
-    { title: 'Practica hasta que te salga', reason: 'El camino del trauma, no del llamado' },
+    { title: 'Take a public speaking course', reason: 'Empty technique without spiritual power' },
+    { title: 'Study theology for 5 years', reason: 'Too late, too much theory' },
+    { title: 'Search for messages on the internet', reason: 'Soulless words' },
+    { title: 'Practice until you get it right', reason: 'The path of trauma, not of calling' },
   ];
 
   return (
@@ -13,7 +13,7 @@ const WrongSolutionsSection = () => {
       <div className="container mx-auto max-w-3xl">
         <div className="text-center space-y-6 sm:space-y-8">
           <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-foreground px-2">
-            Basta de seguir los consejos equivocados:
+            Stop following the wrong advice:
           </h2>
 
           <div className="grid gap-3 sm:gap-4 max-w-2xl mx-auto">
@@ -34,14 +34,14 @@ const WrongSolutionsSection = () => {
 
           <div className="bg-accent border border-accent-foreground/20 p-4 sm:p-6 rounded-lg">
             <p className="text-sm sm:text-base lg:text-lg text-accent-foreground leading-relaxed px-2">
-              Si estos métodos funcionaran, ya estarías predicando con confianza.
-              La verdad es que necesitas algo más profundo, más espiritual, más{" "}
-              <strong>estratégico</strong>.
+              If these methods worked, you would already be preaching with confidence.
+              The truth is that you need something deeper, more spiritual, more{" "}
+              <strong>strategic</strong>.
             </p>
           </div>
 
           <p className="text-base sm:text-lg lg:text-xl font-bold text-primary px-2">
-            Necesitas el método que está en la Biblia.
+            You need the method that's in the Bible.
           </p>
         </div>
       </div>
