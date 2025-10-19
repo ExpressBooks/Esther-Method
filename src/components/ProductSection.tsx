@@ -103,7 +103,7 @@ const ProductSection = () => {
           {/* Video de Presentación (GIF temporal) */}
           <div className="max-w-3xl mx-auto mb-10">
             <img
-              src="https://i.imgur.com/nisxujy.gif"
+              src="https://i.imgur.com/pQU3kcH.gif"
               alt="Presentación del Método Esther"
               className="w-full rounded-lg shadow-lg object-contain"
             />
