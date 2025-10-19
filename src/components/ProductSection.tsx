@@ -138,7 +138,7 @@ const ProductSection = () => {
 
             <div className="max-w-xl mx-auto">
               <img
-                src="https://i.imgur.com/0J72exD.png"
+                src="https://i.imgur.com/wVvh788.png"
                 alt="Exclusive Bonus - Sermon Preparation Guide"
                 className="w-64 h-80 object-cover mx-auto rounded-lg shadow"
               />
@@ -179,7 +179,7 @@ const ProductSection = () => {
 
             <div className="max-w-xl mx-auto">
               <img
-                src="https://i.imgur.com/hOcXFA2.png"
+                src="https://i.imgur.com/g1X7tFt.png"
                 alt="Pre-Sermon Checklist"
                 className="w-64 h-80 object-cover mx-auto rounded-lg shadow"
               />
@@ -224,7 +224,7 @@ const ProductSection = () => {
 
             <div className="max-w-xl mx-auto">
               <img
-                src="https://i.imgur.com/3hiGgJK.png"
+                src="https://i.imgur.com/r82Athv.png"
                 alt="Ministerial Leadership Development Plan"
                 className="w-64 h-80 object-cover mx-auto rounded-lg shadow"
               />
