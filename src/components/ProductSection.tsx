@@ -49,7 +49,7 @@ const ProductSection = () => {
           {/* Method Image */}
           <div className="max-w-2xl mx-auto">
             <img
-              src="https://i.imgur.com/jKPwAio.png"
+              src="https://i.imgur.com/90KF0D8.png"
               alt="Visual guide to the Esther Method"
               className="w-full max-h-[500px] object-contain rounded-lg mx-auto"
             />
@@ -109,7 +109,7 @@ const ProductSection = () => {
           {/* Bonus 1 */}
           <div className="bg-accent/10 border border-accent p-6 sm:p-8 rounded-lg mt-10 space-y-6">
             <h3 className="text-2xl font-bold text-black text-center">EXCLUSIVE BONUS</h3>
-            <img src="https://i.imgur.com/0J72exD.png" alt="Sermon Guide" className="w-64 h-80 object-cover mx-auto rounded-lg shadow" />
+            <img src="https://i.imgur.com/wVvh788.png" alt="Sermon Guide" className="w-64 h-80 object-cover mx-auto rounded-lg shadow" />
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
               A practical and spiritual guide that shows you how to prepare impactful sermons that touch your audience’s hearts.
             </p>
@@ -135,7 +135,7 @@ const ProductSection = () => {
           {/* Bonus 2 */}
           <div className="bg-accent/10 border border-accent p-6 sm:p-8 rounded-lg mt-10 space-y-6">
             <h3 className="text-2xl font-bold text-black text-center">SPECIAL BONUS</h3>
-            <img src="https://i.imgur.com/hOcXFA2.png" alt="Preaching Checklist" className="w-64 h-80 object-cover mx-auto rounded-lg shadow" />
+            <img src="https://i.imgur.com/g1X7tFt.png" alt="Preaching Checklist" className="w-64 h-80 object-cover mx-auto rounded-lg shadow" />
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
               A practical and spiritual checklist to step onto the pulpit with peace, confidence, and authority.
             </p>
@@ -164,7 +164,7 @@ const ProductSection = () => {
           {/* Bonus 3 */}
           <div className="bg-accent/10 border border-accent p-6 sm:p-8 rounded-lg mt-10 space-y-6">
             <h3 className="text-2xl font-bold text-black text-center">PREMIUM BONUS</h3>
-            <img src="https://i.imgur.com/3hiGgJK.png" alt="Ministerial Leadership Plan" className="w-64 h-80 object-cover mx-auto rounded-lg shadow" />
+            <img src="https://i.imgur.com/r82Athv.png" alt="Ministerial Leadership Plan" className="w-64 h-80 object-cover mx-auto rounded-lg shadow" />
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
               A plan designed to help you grow as a leader, strengthen your gifts, and guide other women with wisdom.
             </p>
@@ -193,7 +193,7 @@ const ProductSection = () => {
           {/* Video moved to the end */}
           <div className="max-w-3xl mx-auto mt-16">
             <img
-              src="https://i.imgur.com/nisxujy.gif"
+              src="https://i.imgur.com/pQU3kcH.gif"
               alt="Presentation of the Esther Method"
               className="w-full max-h-[400px] sm:max-h-[450px] object-contain rounded-lg shadow-lg mx-auto"
             />
