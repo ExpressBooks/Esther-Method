@@ -13,28 +13,7 @@ const FinalCTASection = () => {
           Today you can access the <strong>Esther Method</strong> with all the exclusive bonuses
           and begin your ministerial transformation <strong>immediately</strong>.
         </p>
-
-        {/* Lista de beneficios rápidos */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4 max-w-md mx-auto text-left text-yellow-800">
-          <div className="flex items-center gap-2">
-            <CheckCircle className="w-5 h-5 text-green-600" />
-            <span className="text-sm sm:text-base">Instant access on all your devices</span>
-          </div>
-          <div className="flex items-center gap-2">
-            <CheckCircle className="w-5 h-5 text-green-600" />
-            <span className="text-sm sm:text-base">7-day unconditional guarantee</span>
-          </div>
-          <div className="flex items-center gap-2">
-            <CheckCircle className="w-5 h-5 text-green-600" />
-            <span className="text-sm sm:text-base">More than 2,000 women already transformed</span>
-          </div>
-          <div className="flex items-center gap-2">
-            <CheckCircle className="w-5 h-5 text-green-600" />
-            <span className="text-sm sm:text-base">Exclusive bonuses included FREE</span>
-          </div>
-        </div>
-
-        {/* CTA Principal */}
+              
         <a
           href="https://pay.hotmart.com/W102495510V?checkoutMode=10"
           target="_blank"
@@ -43,11 +22,6 @@ const FinalCTASection = () => {
         >
           YES, I WANT TO ACCESS NOW!
         </a>
-
-        {/* Mensagem de urgência */}
-        <p className="text-sm text-yellow-700 font-medium">
-          ⚠️ Special offer available for a limited time only.
-        </p>
 
         {/* Direitos reservados */}
         <p className="text-xs sm:text-sm text-muted-foreground mt-4">
